@@ -3,4 +3,4 @@
 *.po
 
 # Uncomment the following and edit appropriately if on a language's branch.
-# !**/lang/**/*.po
+!**/hi_IN/**/*.po
